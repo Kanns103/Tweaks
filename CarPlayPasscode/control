@@ -1,0 +1,12 @@
+Package: com.kanns.carplaypasscode
+Name: CarPlayPasscode
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Enable carplay passcode buttons
+Icon: https://Kanns103.github.io/depictions/com.kanns.carplaypasscode/icon.png
+Depiction: https://Kanns103.github.io/depictions/?p=com.kanns.carplaypasscode
+SileoDepiction: https://Kanns103.github.io/depictions/com.kanns.carplaypasscode/sileo.json
+Maintainer: Kanns
+Author: Kanns
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
